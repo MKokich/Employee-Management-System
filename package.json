@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/MKokich/Employee-Management-System#readme",
   "dependencies": {
-    "mongodb": "^3.6.9"
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.0",
+    "mongodb": "^3.6.9",
+    "mysql": "^2.18.1"
   }
 }
